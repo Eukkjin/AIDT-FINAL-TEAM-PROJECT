@@ -7,7 +7,7 @@
 - ## Time :watch:
 - **Duration**: 50 minutes
   
-### Aim  :dancer::dancer:
+### :dancer:  Aim  :dancer:
 By the end of the lesson, students will be able to analyze the main idea and supporting details of each paragraph through reading, answering comprehension questions, and crafting a concise summary.
 
 ### Materials  :bar_chart:
