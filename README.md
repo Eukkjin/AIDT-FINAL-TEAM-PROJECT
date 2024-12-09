@@ -7,7 +7,7 @@
 - ## Time :watch:
 - **Duration**: 50 minutes
   
-### Aim  :heart_eyes:
+### Aim  :dancer::dancer:
 By the end of the lesson, students will be able to analyze the main idea and supporting details of each paragraph through reading, answering comprehension questions, and crafting a concise summary.
 
 ### Materials  :bar_chart:
@@ -31,7 +31,7 @@ By the end of the lesson, students will be able to analyze the main idea and sup
  ![KakaoTalk_20241204_232845418](https://github.com/user-attachments/assets/943e484b-20b6-4cbc-aa7a-2a63f5b6c021)
 
 
-### 2. Vocabulary :dancer::dancer:
+### 2. Vocabulary :heart_eyes:
 1. Ask students to match the right meaning of each word (whole-class activity).  
 
 - **loan**: to give something to someone for a period of time  
