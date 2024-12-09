@@ -107,7 +107,7 @@ By the end of the lesson, students will be able to analyze the main idea and sup
 - Encourage them to share their summaries with their group members.
 - ## Close the Activity and Post-Activity
 
-### :six: 6. Close :smile:
+### :six: 6. Close :smile::clap:
 - Gather all students as a whole class.  
 - Ask them to share their summaries and check for any misunderstandings.  
 
