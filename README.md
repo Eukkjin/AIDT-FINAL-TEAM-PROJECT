@@ -1,11 +1,12 @@
+# AIDT-FINAL-TEAM-PROJECT
+
 # A Fond Farewell
 ## Context
 - **Level**: Intermediate  
 - **Target Audience**: Middle-school 3rd graders
 - ## Time
 - **Duration**: 50 minutes
-# AIDT-FINAL-TEAM-PROJECT
-
+  
 ### Aim  
 By the end of the lesson, students will be able to analyze the main idea and supporting details of each paragraph through reading, answering comprehension questions, and crafting a concise summary.
 ### Materials  
@@ -40,7 +41,9 @@ By the end of the lesson, students will be able to analyze the main idea and sup
 - **conservation**: saving and protecting
 - ## Set Up and Run the Activity – Main Skill Tasks
 -
--  ![image](https://github.com/user-attachments/assets/1ed7a550-a921-44af-a317-4de5049a1132)
+- ![image](https://github.com/user-attachments/assets/1ed7a550-a921-44af-a317-4de5049a1132)
+
+  ![image](https://github.com/user-attachments/assets/b6fc4242-bf03-45c9-8012-c5ff589336da)
 
 
 ### 1. Group Activity: Predicting Content
