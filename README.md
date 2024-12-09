@@ -17,7 +17,7 @@ By the end of the lesson, students will be able to analyze the main idea and sup
 - **Material #4**: Wh-questions organizer  
 - **Material #5**: Summary note
   
-## Lead-in (PPT)  :sparkling_heart:
+## Lead-in (PPT)  :computer:
 ### 1. Predict
 1. Hand out and show an image of a panda from the article.  
    - Ask students questions:  
