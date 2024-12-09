@@ -29,6 +29,8 @@ By the end of the lesson, students will be able to analyze the main idea and sup
 - **confinement**: forced to stay in a place  
 - **conservation**: saving and protecting
 - ## Set Up and Run the Activity – Main Skill Tasks
+- ![image](https://github.com/user-attachments/assets/1ed7a550-a921-44af-a317-4de5049a1132)
+
 
 ### 1. Group Activity: Predicting Content
 - Divide students into groups.  
