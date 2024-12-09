@@ -46,13 +46,13 @@ By the end of the lesson, students will be able to analyze the main idea and sup
 - ![image](https://github.com/user-attachments/assets/1ed7a550-a921-44af-a317-4de5049a1132)
   
 
-### 1. Group Activity: Predicting Content :heartbeat:
+### :one: 1. Group Activity: Predicting Content :heartbeat:
 - Divide students into groups.  
 - Provide only the titles of paragraphs and ask students to predict the content of each paragraph.
 
 ---
 
-### 2. Skimming 1: Guessing and Expecting (Material #1)  :wink:
+### :two: 2. Skimming 1: Guessing and Expecting (Material #1)  :wink:
 :pushpin: #### Step 1: Predict with Headings
 - Provide students with the headings of each paragraph and ask them to guess what the content will be about:
   - **The End of Agreement**  
@@ -69,7 +69,7 @@ By the end of the lesson, students will be able to analyze the main idea and sup
 
 ---
 
-### 3. Read for Details 1: Multiple-Choice Questions (Material #2 & #3) :newspaper::sparkles:
+### :three: 3. Read for Details 1: Multiple-Choice Questions (Material #2 & #3) :newspaper::sparkles:
 
 #### Step 1: Provide the Whole Text  :laughing:
 - Hand out the entire text and ask students to answer the following multiple-choice questions:
