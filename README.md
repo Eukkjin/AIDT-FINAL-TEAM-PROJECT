@@ -120,6 +120,6 @@ By the end of the lesson, students will be able to analyze the main idea and sup
 
 ---
 
-### :eight: 8. Extend to Another Skill: Debate :boom::boom:
+### :eight: 8. Extend to Another Skill: Debate :smiley_cat::kissing_cat:
 - Organize a debate based on the following question:  
   - **“Do you agree or disagree with using pandas as a political strategy?”**
