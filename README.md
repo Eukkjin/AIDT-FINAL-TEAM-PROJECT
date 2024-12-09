@@ -71,7 +71,7 @@ By the end of the lesson, students will be able to analyze the main idea and sup
 
 ### 3. Read for Details 1: Multiple-Choice Questions (Material #2 & #3) :newspaper::sparkles:
 
-#### Step 1: Provide the Whole Text
+#### Step 1: Provide the Whole Text  :laughing:
 - Hand out the entire text and ask students to answer the following multiple-choice questions:
 
 1. **How are zookeepers preparing the bears for the journey?**  
@@ -107,7 +107,7 @@ By the end of the lesson, students will be able to analyze the main idea and sup
 - Encourage them to share their summaries with their group members.
 - ## Close the Activity and Post-Activity
 
-### 6. Close :laughing::smile:
+### 6. Close :smile:
 - Gather all students as a whole class.  
 - Ask them to share their summaries and check for any misunderstandings.  
 
