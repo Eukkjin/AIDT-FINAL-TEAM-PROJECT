@@ -69,7 +69,8 @@ By the end of the lesson, students will be able to analyze the main idea and sup
 
 ---
 
-### 3. Read for Details 1: Multiple-Choice Questions (Material #2 & #3) :newspaper:
+### 3. Read for Details 1: Multiple-Choice Questions (Material #2 & #3) :newspaper::sparkles:
+
 #### Step 1: Provide the Whole Text
 - Hand out the entire text and ask students to answer the following multiple-choice questions:
 
