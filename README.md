@@ -18,7 +18,7 @@ By the end of the lesson, students will be able to analyze the main idea and sup
 - **Material #5**: Summary note
   
 ## Lead-in (PPT)  :computer:
-### 1. Predict
+### 1. Predict :information_desk_person:
 1. Hand out and show an image of a panda from the article.  
    - Ask students questions:  
      - “What do you know about pandas?”  
