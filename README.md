@@ -17,7 +17,8 @@ By the end of the lesson, students will be able to analyze the main idea and sup
      - “Have you ever seen a panda in real life?”  
    - Then ask: “What will be today’s topic?”  
 2. Tell students: “Today’s topic is going to be about pandas and diplomacy.”
-3. ![KakaoTalk_20241204_232845418](https://github.com/user-attachments/assets/943e484b-20b6-4cbc-aa7a-2a63f5b6c021)
+
+ ![KakaoTalk_20241204_232845418](https://github.com/user-attachments/assets/943e484b-20b6-4cbc-aa7a-2a63f5b6c021)
 
 
 ### 2. Vocabulary
@@ -31,7 +32,8 @@ By the end of the lesson, students will be able to analyze the main idea and sup
 - **confinement**: forced to stay in a place  
 - **conservation**: saving and protecting
 - ## Set Up and Run the Activity – Main Skill Tasks
-- ![image](https://github.com/user-attachments/assets/1ed7a550-a921-44af-a317-4de5049a1132)
+-
+-  ![image](https://github.com/user-attachments/assets/1ed7a550-a921-44af-a317-4de5049a1132)
 
 
 ### 1. Group Activity: Predicting Content
