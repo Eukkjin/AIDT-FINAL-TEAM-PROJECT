@@ -23,7 +23,8 @@ By the end of the lesson, students will be able to analyze the main idea and sup
      - “What do you know about pandas?”  
      - “Do you know any pandas in Korea?”  
      - “Have you ever seen a panda in real life?”  
-   - Then ask: “What will be today’s topic?”  
+   - Then ask: “What will be today’s topic?”
+     
 2. Tell students: “Today’s topic is going to be about pandas and diplomacy.”
 
  ![KakaoTalk_20241204_232845418](https://github.com/user-attachments/assets/943e484b-20b6-4cbc-aa7a-2a63f5b6c021)
@@ -42,9 +43,7 @@ By the end of the lesson, students will be able to analyze the main idea and sup
 - ## Set Up and Run the Activity – Main Skill Tasks
 -
 - ![image](https://github.com/user-attachments/assets/1ed7a550-a921-44af-a317-4de5049a1132)
-
-  ![image](https://github.com/user-attachments/assets/b6fc4242-bf03-45c9-8012-c5ff589336da)
-
+  
 
 ### 1. Group Activity: Predicting Content
 - Divide students into groups.  
@@ -59,6 +58,9 @@ By the end of the lesson, students will be able to analyze the main idea and sup
   - **Panda Diplomacy**  
   - **Safe Returns**  
   - **Panda Progress**
+
+  ![image](https://github.com/user-attachments/assets/b6fc4242-bf03-45c9-8012-c5ff589336da)
+
 
 #### Step 2: Group Matching
 - Distribute different paragraphs to individual students.  
