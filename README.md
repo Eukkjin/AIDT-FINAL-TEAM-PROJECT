@@ -17,6 +17,8 @@ By the end of the lesson, students will be able to analyze the main idea and sup
      - “Have you ever seen a panda in real life?”  
    - Then ask: “What will be today’s topic?”  
 2. Tell students: “Today’s topic is going to be about pandas and diplomacy.”
+3. ![KakaoTalk_20241204_232845418](https://github.com/user-attachments/assets/943e484b-20b6-4cbc-aa7a-2a63f5b6c021)
+
 
 ### 2. Vocabulary
 1. Ask students to match the right meaning of each word (whole-class activity).  
