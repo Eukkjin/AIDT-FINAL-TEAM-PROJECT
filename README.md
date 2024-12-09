@@ -1,16 +1,16 @@
 # AIDT-FINAL-TEAM-PROJECT :kissing::sparkles:
 
 # A Fond Farewell :broken_heart:
-## Context
+## Context :bookmark_tabs:
 - **Level**: Intermediate  
 - **Target Audience**: Middle-school 3rd graders
-- ## Time
+- ## Time :watch:
 - **Duration**: 50 minutes
   
 ### Aim  :heart_eyes:
 By the end of the lesson, students will be able to analyze the main idea and supporting details of each paragraph through reading, answering comprehension questions, and crafting a concise summary.
 
-### Materials  :bookmark_tabs:
+### Materials  :bar_chart:
 - **Worksheet 1**: Vocabulary list, headings, and segmented paragraphs  
 - **Worksheet 2**: Full text without headings  
 - **Worksheet 3**: Multiple-choice questions  
