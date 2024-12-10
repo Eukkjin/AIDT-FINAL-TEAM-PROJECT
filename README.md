@@ -55,7 +55,7 @@ By the end of the lesson, students will be able to analyze the main idea and sup
 ### :two: 2. Skimming 1: Guessing and Expecting (Material #1)  :point_right::wink:
 #### :pushpin: Step 1: Predict with Headings
 - Ask Students to download Material #2
-  [Download PDF]([https://github.com/your-username/your-repo-name/raw/main/your-file-name.pdf](https://github.com/Eukkjin/AIDT-FINAL-TEAM-PROJECT/blob/main/Material%20%232.pdf))
+[Download PDF]([https://github.com/your-username/your-repo-name/raw/main/your-file-name.pdf](https://github.com/Eukkjin/AIDT-FINAL-TEAM-PROJECT/blob/main/Material%20%232.pdf))
 - Provide students with the headings of each paragraph and ask them to guess what the content will be about:
   - **The End of Agreement**  
   - **Panda Diplomacy**  
