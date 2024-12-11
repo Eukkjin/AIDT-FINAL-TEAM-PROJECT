@@ -11,9 +11,9 @@
 By the end of the lesson, students will be able to analyze the main idea and supporting details of each paragraph through reading, answering comprehension questions, and crafting a concise summary.
 
 ### Materials  :bar_chart:
-- **Material 1**: Vocabulary list, Headings, and parted paragraphs  
-- **Material 2**: Full text without headings  
-- **Material 3**: Multiple-choice questions  
+- **Material #1**: Vocabulary list, Headings, and parted paragraphs  
+- **Material #2**: Full text without headings  
+- **Material #3**: Multiple-choice questions  
 - **Material #4**: Wh-questions organizer  
 - **Material #5**: Summary note
   
@@ -52,7 +52,7 @@ By the end of the lesson, students will be able to analyze the main idea and sup
 - Provide only the titles of paragraphs and ask students to predict the content of each paragraph.
 
 
-### :two: Skimming 1: Guessing and Expecting (Material #1)  :point_right::wink:
+### :two: Skimming 1: Guessing and Expecting (Material #1, Material #2)  :point_right::wink:
 #### :pushpin: Step 1: Predict with Headings
 - Ask Students to download Material #2  
 [Download PDF](https://github.com/Eukkjin/AIDT-FINAL-TEAM-PROJECT/raw/main/Material%20%232.pdf)
@@ -72,9 +72,11 @@ By the end of the lesson, students will be able to analyze the main idea and sup
 ---
 
 ## 3. Read for Details 
-### :one: Multiple-Choice Questions (Material #2 & #3) :newspaper::sparkles:
+### :one: Multiple-Choice Questions (Material #3 & #4 & #5) :newspaper::sparkles:
 
 #### Provide the Whole Text  :laughing:
+- ### Material #3 Multiple Choice Questions
+
 - Hand out the entire text and ask students to answer the following multiple-choice questions:
 
 1. **How are zookeepers preparing the bears for the journey?**  
@@ -99,11 +101,15 @@ By the end of the lesson, students will be able to analyze the main idea and sup
 
 
 ### :two: Read for Details 2: WH-Questions Chart  :question::smiley:
+- ### Material #4 Graphic Organizer
+  
 - Ask students to scan the whole text and fill in a chart based on WH-questions (e.g., Who, What, Where, When, Why, How).  
 - Students share and compare their charts with group members to identify differences and similarities.
 
 
 ### :three: Summary Task  :clipboard:
+- ### Material #5 Summary
+  
 - Ask students to summarize each of the four paragraphs into one or two sentences.  
 - Encourage them to share their summaries with their group members.
 
