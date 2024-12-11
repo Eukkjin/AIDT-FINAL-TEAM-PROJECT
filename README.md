@@ -112,6 +112,11 @@ By the end of the lesson, students will be able to analyze the main idea and sup
 > :bangbang:표 데이터 입력: 표의 각 행 데이터를 쉼표(,)로 구분하고, 행은 줄바꿈(\n)으로 구분합니다.
 > 
 > :bangbang:예시: Alice,Bob,Charlie,Eve Reading,Playing,Writing,Watching Learn,Relax,Work,Entertain Morning,Afternoon,Evening,Night Library,Home,Office,Theater By reading,By playing,By working,By watching
+>
+> :bangbang:Look at the chart and type the informatin in order.
+<img src="https://github.com/Eukkjin/AIDT-FINAL-TEAM-PROJECT/blob/main/Material%20%234%20GO.png" alt="Material #4 Graphic Organizer" width="500">
+
+
 
 - Students share and compare their charts with group members to identify differences and similarities.
 
