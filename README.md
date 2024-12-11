@@ -76,8 +76,9 @@ By the end of the lesson, students will be able to analyze the main idea and sup
 
 #### Provide the Whole Text  :laughing:
 - ### Material #3 Multiple Choice Questions
+- [View Code Page](https://github.com/Eukkjin/AIDT-FINAL-TEAM-PROJECT/blob/main/multiple_choice_questions.ipynb)
 
-- Hand out the entire text and ask students to answer the following multiple-choice questions:
+- Ask students to answer the following multiple-choice questions on the webpage:
 
 1. **How are zookeepers preparing the bears for the journey?**  
    A. By letting them roam freely.  
@@ -102,13 +103,22 @@ By the end of the lesson, students will be able to analyze the main idea and sup
 
 ### :two: Read for Details 2: WH-Questions Chart  :question::smiley:
 - ### Material #4 Graphic Organizer
+- [View Code Page](https://github.com/Eukkjin/AIDT-FINAL-TEAM-PROJECT/blob/main/%08Filling_Graphic_Organizer.ipynb)
   
 - Ask students to scan the whole text and fill in a chart based on WH-questions (e.g., Who, What, Where, When, Why, How).  
+- After filling all the information of the article, ask Students to download it.
+  
+- When filling the chart, students need to type like this:
+> :bangbang:표 데이터 입력: 표의 각 행 데이터를 쉼표(,)로 구분하고, 행은 줄바꿈(\n)으로 구분합니다.
+> 
+> :bangbang:예시: Alice,Bob,Charlie,Eve Reading,Playing,Writing,Watching Learn,Relax,Work,Entertain Morning,Afternoon,Evening,Night Library,Home,Office,Theater By reading,By playing,By working,By watching
+
 - Students share and compare their charts with group members to identify differences and similarities.
 
 
 ### :three: Summary Task  :clipboard:
 - ### Material #5 Summary
+- [View Code Page](https://github.com/Eukkjin/AIDT-FINAL-TEAM-PROJECT/blob/main/Material_5_Summary.ipynb)
   
 - Ask students to summarize each of the four paragraphs into one or two sentences.  
 - Encourage them to share their summaries with their group members.
