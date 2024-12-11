@@ -17,8 +17,8 @@ By the end of the lesson, students will be able to analyze the main idea and sup
 - **Material #4**: Wh-questions organizer  
 - **Material #5**: Summary note
   
-## Lead-in (PPT)  :computer:
-### 1. Predict :information_desk_person:
+## 1. Lead-in (PPT)  :computer:
+### :one: Predict :information_desk_person:
 1. Hand out and show an image of a panda from the article.  
    - Ask students questions:  
      - “What do you know about pandas?”  
@@ -31,7 +31,7 @@ By the end of the lesson, students will be able to analyze the main idea and sup
  ![KakaoTalk_20241204_232845418](https://github.com/user-attachments/assets/943e484b-20b6-4cbc-aa7a-2a63f5b6c021)
 
 
-### 2. Vocabulary :heart_eyes:
+### :two: Vocabulary :heart_eyes:
 1. Ask students to match the right meaning of each word (whole-class activity).  
 
 - **loan**: to give something to someone for a period of time  
@@ -41,18 +41,18 @@ By the end of the lesson, students will be able to analyze the main idea and sup
 - **ambassador**: a person who represents his or her country  
 - **confinement**: forced to stay in a place  
 - **conservation**: saving and protecting
-- ## Set Up and Run the Activity – Main Skill Tasks
--
-- ![image](https://github.com/user-attachments/assets/1ed7a550-a921-44af-a317-4de5049a1132)
-  
 
-### :one: 1. Group Activity: Predicting Content :heartbeat:
+- ![image](https://github.com/user-attachments/assets/1ed7a550-a921-44af-a317-4de5049a1132)
+
+---
+## 2. Set Up and Run the Activity – Main Skill Tasks
+
+### :one: Group Activity: Predicting Content :heartbeat:
 - Divide students into groups.  
 - Provide only the titles of paragraphs and ask students to predict the content of each paragraph.
 
----
 
-### :two: 2. Skimming 1: Guessing and Expecting (Material #1)  :point_right::wink:
+### :two: Skimming 1: Guessing and Expecting (Material #1)  :point_right::wink:
 #### :pushpin: Step 1: Predict with Headings
 - Ask Students to download Material #2  
 [Download PDF](https://github.com/Eukkjin/AIDT-FINAL-TEAM-PROJECT/raw/main/Material%20%232.pdf)
@@ -71,9 +71,10 @@ By the end of the lesson, students will be able to analyze the main idea and sup
 
 ---
 
-### :three: 3. Read for Details 1: Multiple-Choice Questions (Material #2 & #3) :newspaper::sparkles:
+## 3. Read for Details 
+### :one: Multiple-Choice Questions (Material #2 & #3) :newspaper::sparkles:
 
-#### Step 1: Provide the Whole Text  :laughing:
+#### Provide the Whole Text  :laughing:
 - Hand out the entire text and ask students to answer the following multiple-choice questions:
 
 1. **How are zookeepers preparing the bears for the journey?**  
@@ -96,32 +97,30 @@ By the end of the lesson, students will be able to analyze the main idea and sup
    B. Because the pandas want to go on vacation.  
    C. Because pandas are not liked in the U.S.
 
----
 
-### :four: 4. Read for Details 2: WH-Questions Chart  :question::smiley:
+### :two: Read for Details 2: WH-Questions Chart  :question::smiley:
 - Ask students to scan the whole text and fill in a chart based on WH-questions (e.g., Who, What, Where, When, Why, How).  
 - Students share and compare their charts with group members to identify differences and similarities.
 
----
 
-### :five: 5. Summary Task  :clipboard:
+### :three: Summary Task  :clipboard:
 - Ask students to summarize each of the four paragraphs into one or two sentences.  
 - Encourage them to share their summaries with their group members.
-- ## Close the Activity and Post-Activity
 
-### :six: 6. Close :smile::clap:
+---
+## 4. Close the Activity and Post-Activity
+
+### :one: Close :smile::clap:
 - Gather all students as a whole class.  
 - Ask them to share their summaries and check for any misunderstandings.  
 
----
 
-### :seven: 7. Feedback Questions :ok_hand::dizzy:
+### :two: Feedback Questions :ok_hand::dizzy:
 - Ask students the following feedback questions:  
   - “Did you learn any new information from the reading?”  
   - “Was the article hard to understand?”
 
----
 
-### :eight: 8. Extend to Another Skill: Debate :smiley_cat::kissing_cat:
+### :three: Extend to Another Skill: Debate :smiley_cat::kissing_cat:
 - Organize a debate based on the following question:  
   - **“Do you agree or disagree with using pandas as a political strategy?”**
